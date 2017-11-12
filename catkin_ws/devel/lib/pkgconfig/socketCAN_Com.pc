@@ -1,0 +1,8 @@
+prefix=/home/firefly/catkin_ws/devel
+
+Name: socketCAN_Com
+Description: Description of socketCAN_Com
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/firefly/catkin_ws/devel/lib 
+Requires: 
