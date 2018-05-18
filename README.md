@@ -1,4 +1,4 @@
-# ros_socketcan
+# ros_socketcan 0
 create at 2016.11.3
 # 实现的功能是rk3288通过can通信来控制电机
 ## catkin_ws是ROS的包，基于socketcan和can4python库开发,通过接口CAN0传输CAN消息的功能
